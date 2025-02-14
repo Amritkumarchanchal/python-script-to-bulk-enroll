@@ -1,0 +1,9 @@
+python -m venv venv     
+
+venv\Scripts\activate  
+
+pip install requests pandas tqdm   
+ 
+pip install python-dotenv
+
+python python.py 
